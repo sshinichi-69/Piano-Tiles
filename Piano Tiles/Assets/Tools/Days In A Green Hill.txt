@@ -1,0 +1,768 @@
+Tempo=689654
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 16
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Long Note Length 7
+1 Long Note Length 2
+1 Long Note Length 2
+1 Long Note Length 2
+1 Long Note Length 3
+1 Long Note Length 10
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 13
+Tempo=674158
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 13
+1 Normal Note
+1 Normal Note
+Tempo=681816
+2 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 16
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Long Note Length 9
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Long Note Length 3
+1 Long Note Length 10
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=750002
+2 Normal Note
+1 Normal Note
+Tempo=681816
+2 Long Note Length 13
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 15
+Tempo=689654
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 8
+1 Long Note Length 3
+1 Long Note Length 4
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=674158
+2 Long Note Length 8
+1 Long Note Length 4
+1 Long Note Length 4
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+Tempo=681816
+2 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+2 Long Note Length 3
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 4
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 8
+1 Long Note Length 3
+1 Long Note Length 4
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 8
+Tempo=689654
+1 Long Note Length 4
+1 Long Note Length 4
+Tempo=681816
+2 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 4
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=681816
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=697676
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 8
+Tempo=705881
+1 Long Note Length 3
+1 Long Note Length 4
+1 Normal Note
+Tempo=697676
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 8
+1 Long Note Length 4
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+Tempo=681816
+2 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 16
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Long Note Length 7
+1 Long Note Length 2
+1 Long Note Length 2
+1 Long Note Length 2
+1 Long Note Length 3
+1 Long Note Length 10
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 13
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 13
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 16
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 3
+1 Long Note Length 9
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Long Note Length 3
+1 Long Note Length 10
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=750002
+2 Normal Note
+1 Normal Note
+Tempo=689654
+2 Long Note Length 13
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=714285
+2 Normal Note
+1 Normal Note
+Tempo=689654
+2 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=666667
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=689654
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Long Note Length 2
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=705881
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=722893
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=740741
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=857139
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=923079
+2 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+1 Normal Note
+Tempo=1200000
+2 Normal Note
+Tempo=3000002
+2 Normal Note
+2 Long Note Length 16
