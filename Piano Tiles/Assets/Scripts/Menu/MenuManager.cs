@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,6 +9,8 @@ namespace PianoTiles.Menu
 
         private void Awake()
         {
+            Camera.main.orthographicSize = Screen.height / (Screen.width / 2);
+
             m_instance = this;
         }
 

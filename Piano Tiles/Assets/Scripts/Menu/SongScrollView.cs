@@ -13,6 +13,11 @@ namespace PianoTiles.Menu
         void Start()
         {
             float yPos = 125f;
+            float elementHeight = 225f;
+            m_content.GetComponent<RectTransform>().sizeDelta = new(
+                m_content.GetComponent<RectTransform>().sizeDelta.x,
+                SharedData.Instance.Scores.Count * elementHeight
+            );
             foreach (var song in SharedData.Instance.Scores)
             {
                 GameObject songUi = Instantiate(m_songUiPrefab.gameObject);
@@ -22,7 +27,7 @@ namespace PianoTiles.Menu
                 songUi.GetComponent<Song>().SetScore(song.Value);
                 songUi.GetComponent<Song>().SetName(SharedData.Instance.Songs.songs[song.Key].name);
                 songUi.GetComponent<Song>().SetAuthor(SharedData.Instance.Songs.songs[song.Key].author);
-                yPos += 225f;
+                yPos += elementHeight;
             }
         }
     }

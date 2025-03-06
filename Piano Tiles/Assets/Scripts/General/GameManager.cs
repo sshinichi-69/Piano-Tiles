@@ -22,6 +22,8 @@ namespace PianoTiles.InGame
 
         private void Awake()
         {
+            Camera.main.orthographicSize = Screen.height / (Screen.width / 2f);
+
             m_gameState = GameStateType.STARTING;
         }
 
