@@ -13,7 +13,7 @@ namespace PianoTiles.InGame.Note
         private float m_velocity = 0;
 
         // Constant
-        private const float k_lossPos = -4.25f;
+        private float k_lossPos = -4.25f;
 
         // Unity attributes
         [SerializeField] private StartNote m_startNotePrefab;
@@ -23,7 +23,9 @@ namespace PianoTiles.InGame.Note
 
         private void Awake()
         {
-            notes = new List<Note>();
+            k_lossPos = -4f / Screen.width * Screen.height / 2;
+
+            notes = new();
         }
 
         // Update is called once per frame
@@ -48,13 +50,13 @@ namespace PianoTiles.InGame.Note
         {
             m_velocity = velocity * 1.25f;
             // calc note positions
-            List<int> positions = new List<int>() { 0, 1, 2, 3 };
+            List<int> positions = new() { 0, 1, 2, 3 };
             foreach (int banPos in banPositions)
             {
                 positions.Remove(banPos);
             }
             {
-                int pos = 0;
+                int pos;
                 switch (noteGroupConfig.notes.Count)
                 {
                     case 1:
@@ -140,7 +142,7 @@ namespace PianoTiles.InGame.Note
 
         public List<int> GetPos()
         {
-            List<int> pos = new List<int>();
+            List<int> pos = new();
             foreach (Note note in notes)
             {
                 if (note.Pos != -1)

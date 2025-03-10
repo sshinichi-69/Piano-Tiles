@@ -60,7 +60,7 @@ namespace PianoTiles.InGame.Note
             {
                 if (Input.touchCount > 0)
                 {
-                    List<Note> newHoldingNote = new List<Note>();
+                    List<Note> newHoldingNote = new();
                     foreach (Touch touch in Input.touches)
                     {
                         Vector2 touchPosition = Camera.main.ScreenToWorldPoint(touch.position);
@@ -175,7 +175,7 @@ namespace PianoTiles.InGame.Note
         {
             if (m_noteGroupIdx < m_songNoteConfig.groups.Count)
             {
-                NoteGroup lastNoteGroup = m_groups[m_groups.Count - 1];
+                NoteGroup lastNoteGroup = m_groups[^1];
                 Vector3 noteGroupPos = lastNoteGroup.transform.position + Vector3.up * lastNoteGroup.GetLength();
                 List<int> banPos = lastNoteGroup.GetPos();
 
