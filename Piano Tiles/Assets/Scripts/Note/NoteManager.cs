@@ -216,7 +216,7 @@ namespace PianoTiles.InGame.Note
             {
                 if (m_instance == null)
                 {
-                    m_instance = FindObjectOfType<NoteManager>();
+                    m_instance = FindFirstObjectByType<NoteManager>();
                 }
                 return m_instance;
             }

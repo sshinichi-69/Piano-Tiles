@@ -49,7 +49,7 @@ namespace PianoTiles.Menu
             {
                 if (m_instance == null)
                 {
-                    m_instance = FindObjectOfType<MenuManager>();
+                    m_instance = FindFirstObjectByType<MenuManager>();
                 }
                 return m_instance;
             }

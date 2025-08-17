@@ -83,7 +83,7 @@ namespace PianoTiles.InGame
             {
                 if (m_instance == null)
                 {
-                    m_instance = FindObjectOfType<GameManager>();
+                    m_instance = FindFirstObjectByType<GameManager>();
                 }
                 return m_instance;
             }

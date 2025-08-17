@@ -81,7 +81,7 @@ namespace PianoTiles
             {
                 if (m_instance == null)
                 {
-                    m_instance = FindObjectOfType<SharedData>();
+                    m_instance = FindFirstObjectByType<SharedData>();
                 }
                 return m_instance;
             }
